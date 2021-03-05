@@ -19,3 +19,4 @@ for k in range (1,N+1):
     AbsErr=abs(termen)
     print("%2d\t %.20f\t %.4e" % (k, s, AbsErr))
 print("----------------------------------------------------")
+Marian
